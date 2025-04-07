@@ -1,5 +1,7 @@
 # Proyecto Data Science - Análisis Integral de Empresas Públicas
 
+# Abre el Notebook principal, ubicado en: notebooks/01_EDA.ipynb
+
 ## Abstracto, Motivación y Audiencia
 
 Este proyecto se centra en el análisis integral de datos de empresas públicas, combinando información de precios históricos, datos corporativos y estados financieros para determinar si, en cada período, las acciones se encuentran sobrevaloradas o infravaloradas. La motivación principal es generar insights objetivos y basados en datos sólidos que faciliten la toma de decisiones estratégicas en entornos de inversión y análisis financiero. Se busca identificar patrones y relaciones entre indicadores fundamentales y el comportamiento del precio, permitiendo optimizar modelos de Machine Learning para predecir el valor de las acciones.
