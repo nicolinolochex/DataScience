@@ -1,6 +1,6 @@
 # Proyecto Data Science - Análisis Integral de Empresas Públicas
 
-# Abre el Notebook principal, ubicado en: notebooks/01_EDA.ipynb
+# Abre el Notebook principal, ubicado en: [notebooks/01_EDA.ipynb](https://github.com/nicolinolochex/DataScience/blob/main/notebooks/01_EDA.ipynb)
 
 ## Abstracto, Motivación y Audiencia
 
