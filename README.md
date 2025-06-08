@@ -4,7 +4,7 @@
 
 Este proyecto se centra en el análisis integral de datos de empresas públicas, combinando información de precios históricos, datos corporativos y estados financieros para determinar si, en cada período, las acciones se encuentran **sobrevaloradas o infravaloradas**.
 
-https://colab.research.google.com/drive/1ImaNwvrIdj9_NZdkpzpyQ4AZez4CkUSV#scrollTo=X6fywxY-U1cH&uniqifier=2
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ImaNwvrIdj9_NZdkpzpyQ4AZez4CkUSV)
 
 ### 🎯 Motivación
 Generar *insights* objetivos y basados en datos sólidos que faciliten la toma de decisiones estratégicas en entornos de inversión y análisis financiero.
