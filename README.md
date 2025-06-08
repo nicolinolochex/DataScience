@@ -1,10 +1,14 @@
 # 📊 Análisis Predictivo de Acciones Públicas
 
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ImaNwvrIdj9_NZdkpzpyQ4AZez4CkUSV)
+
+  [![Ver PDF](https://img.shields.io/badge/Ver-PDF-blue)](https://drive.google.com/file/d/1wya7buoOVD8Wik9zvuHGHbI-nSNm6_dq/view?usp=sharing)
+
 ## 🎯 Abstracto, Motivación y Audiencia
 
 Este proyecto se centra en el análisis integral de datos de empresas públicas, combinando información de precios históricos, datos corporativos y estados financieros para determinar si, en cada período, las acciones se encuentran **sobrevaloradas o infravaloradas**.
 
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ImaNwvrIdj9_NZdkpzpyQ4AZez4CkUSV)
+
 
 ### 🎯 Motivación
 Generar *insights* objetivos y basados en datos sólidos que faciliten la toma de decisiones estratégicas en entornos de inversión y análisis financiero.
